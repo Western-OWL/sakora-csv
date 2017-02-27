@@ -1,0 +1,2 @@
+2017.01.10:
+	- copied from https://github.com/sakaicontrib/sakora-csv/tree/11.x
