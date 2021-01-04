@@ -29,7 +29,7 @@
     <parent>
         <artifactId>sakora-csv</artifactId>
         <groupId>net.unicon</groupId>
-        <version>20.1</version>
+        <version>20.2</version>
         <relativePath>../../../../pom.xml</relativePath>
     </parent>
 
